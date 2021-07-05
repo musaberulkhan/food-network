@@ -24,10 +24,11 @@ h1{
 
 p{
     font-size: 18px;
+    line-height:32px;    
 }
 
-.half-width img{
-    width: 90%;   
+h2{
+    font-size: 40px;
 }
 
 .orange-button{
@@ -61,4 +62,40 @@ p{
 .welcome-section-left p{
     color:#828282;
     margin-bottom: 50px;
+}
+
+.welcome-section-right img{
+    width: 90%;  
+}
+
+
+/**********************************************************************************************/
+/*                                      About Me Section                                      */
+/**********************************************************************************************/     
+.about-me-section{   
+    background-image: url(images/about-me-backgroud.jpg);
+    background-repeat: no-repeat;    
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.about-me-section-left img{
+    padding-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 60%;
+}
+
+.about-me-section-right{    
+    margin-right: 150px;
+}
+
+.about-me-section-right h2{
+    margin-top: 100px;
+    color: #707070;
+}
+.about-me-section-right p{
+    margin-bottom: 60px;
+    text-align: justify;
+    color: #18191F;    
 }
