@@ -167,3 +167,34 @@ h4{
     margin-top: 5px;
     color: #18191F;
 }
+
+
+
+/**********************************************************************************************/
+/*                                      Followers Section                                     */
+/**********************************************************************************************/
+.followers-section{   
+    margin: 0px 100px 100px 100px     
+}
+
+.followers-section .followers-container{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+}
+
+.followers-section .followers-container div{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.followers-section .followers-container h1{
+    margin-bottom: 0;
+}
+
+.followers-section .followers-container p{
+    margin-top: 0;
+}
