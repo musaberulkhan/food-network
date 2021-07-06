@@ -259,7 +259,7 @@ h5{
 
 footer{
     background-color: #0B0D17;    
-    padding: 10px 10% 80px 10%;  
+    padding: 10px 10% 10px 10%;  
 }
 
 footer h3{
@@ -311,4 +311,13 @@ footer p{
     text-align: left!important;
     font-size: 14px;
     margin: 0 40px;    
+}
+
+footer .copyright{
+    margin-top: 60px;
+}
+
+footer .copyright span{
+    color: #FBA24F;
+    font-weight: 600;
 }
