@@ -60,6 +60,50 @@ h4{
     border-radius: 30px;
 }
 
+
+/**********************************************************************************************/
+/*                                          Navigation                                        */
+/**********************************************************************************************/      
+.navigation{
+    display: inline-flex;    
+    width: 100%;
+    margin-top: 25px;   
+}
+
+.navigation h4{
+    margin-top: 0;
+    margin-left: 50px;
+}
+
+.navigation h4 span{
+    color: #FBA24F;
+}
+
+.navigation div{
+    width: 80%; 
+}
+
+.navigation div ul{ 
+    margin-top: 0;   
+    display: flex;
+    list-style: none;
+    float: right;
+    margin-right: 30px;    
+}
+
+.navigation div ul li{
+    padding-right: 20px;
+    text-align: right;    
+}
+
+.navigation div ul li a{
+    text-align: right;
+    text-decoration: none;
+    color: #18191F;
+    font-weight: 600;
+}
+
+
 /**********************************************************************************************/
 /*                                       Welcome Section                                      */
 /**********************************************************************************************/        
